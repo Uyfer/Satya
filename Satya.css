@@ -6,7 +6,7 @@
   margin-left:auto;
   margin-right: auto;
   border-radius: 12px;
-  position: 
+  
   border-width: 10px;
   border-style: solid;
   border-color: #ddd;
@@ -22,7 +22,7 @@ img{
 #title{
   color: #ddd;
   font-size:100%;
-  margin-left :10%;
+  margin-left:10%;
 }
 body{
   background-color: #1b2333;
